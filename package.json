@@ -1,0 +1,19 @@
+{
+  "name": "spacce-db-lib",
+  "version": "1.1.0",
+  "description": "A Node.js library for working with PostgreSQL databases for SPACCE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "database",
+    "postgresql"
+  ],
+  "author": "Spacce IBM",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.10.0"
+  }
+}
